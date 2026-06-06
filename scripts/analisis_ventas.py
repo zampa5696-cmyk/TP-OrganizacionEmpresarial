@@ -38,3 +38,5 @@ plt.tight_layout()
 # guardo el gráfico en resultados
 plt.savefig("resultados/grafico_ventas.png")
 print("Gráfico guardado ok")
+
+# SCRUM-6
